@@ -1,0 +1,43 @@
+
+
+.thuTitle {
+	padding: 20px;
+	background-color: pink;
+	color: white;
+	font-family: 'Dancing Script', cursive;
+	font-size: 26pt;
+}
+
+.tamthu {
+	font-family: 'Dancing Script', cursive;
+	font-size: 20pt;
+	color: pink;
+}
+
+.content {
+	background-color: white;
+}
+
+body {
+	
+	background-image: url("./img/bgiu.jpg");
+	background-size: cover;
+    background-repeat: none;
+}
+span {
+	display: inline-block;
+	white-space: pre;
+}
+
+.iloveyou {
+	position: relative;
+}
+
+.mask {
+	position: absolute;
+	background-color: pink;
+	width: 100%;
+	height:100%;
+	top: 0;
+	left: 0;
+}
